@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "767202445249",
+    "project_id": "resetpassword-a1f75",
+    "storage_bucket": "resetpassword-a1f75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767202445249:android:97ba51e783ef2e9ab1d140",
+        "android_client_info": {
+          "package_name": "com.example.resetpassword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767202445249-2kj7a4hnscfm72t0qpoocfcrs4udg8ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB228GjTETUklAZbG7TgY_SgqpDLSk8tPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767202445249-2kj7a4hnscfm72t0qpoocfcrs4udg8ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
